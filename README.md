@@ -1,6 +1,9 @@
 1. Compare parameter between algorithm
 2. Compare between Algorithm per file type 
-
+3. Compare Algorithm between file size
+4. Result
+5. Analysis
+6. Summary
 
 upload dulu - > compressed
 
