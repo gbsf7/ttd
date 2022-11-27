@@ -9,19 +9,19 @@ format raw/binary
 test apramteret the best for each alogrithm
 test each alorithm best parameter for efficency
 
-Test each size performace 
+# Test each size performace 
 
 - 64Kb
 - 64MB
 - 1GB
 - 5GB
 
-comparison within
+# comparison within
 - Execution time
 - Resource Used
 - Final Size
 
-Parameter for Each Algorithm (each has seperate 
+# Parameter for Each Algorithm (each has seperate 
 - Compression Level
 - Method
 - Dictionary Size
